@@ -1,0 +1,30 @@
+C:\Users\Raian Almeida\Desktop\Calculando Areas geometricas\CalculoGeometrico\CalculoGeometrico\bin\Debug\net6.0\CalculoGeometrico.exe
+C:\Users\Raian Almeida\Desktop\Calculando Areas geometricas\CalculoGeometrico\CalculoGeometrico\bin\Debug\net6.0\CalculoGeometrico.deps.json
+C:\Users\Raian Almeida\Desktop\Calculando Areas geometricas\CalculoGeometrico\CalculoGeometrico\bin\Debug\net6.0\CalculoGeometrico.runtimeconfig.json
+C:\Users\Raian Almeida\Desktop\Calculando Areas geometricas\CalculoGeometrico\CalculoGeometrico\bin\Debug\net6.0\CalculoGeometrico.dll
+C:\Users\Raian Almeida\Desktop\Calculando Areas geometricas\CalculoGeometrico\CalculoGeometrico\bin\Debug\net6.0\CalculoGeometrico.pdb
+C:\Users\Raian Almeida\Desktop\Calculando Areas geometricas\CalculoGeometrico\CalculoGeometrico\obj\Debug\net6.0\CalculoGeometrico.csproj.AssemblyReference.cache
+C:\Users\Raian Almeida\Desktop\Calculando Areas geometricas\CalculoGeometrico\CalculoGeometrico\obj\Debug\net6.0\CalculoGeometrico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raian Almeida\Desktop\Calculando Areas geometricas\CalculoGeometrico\CalculoGeometrico\obj\Debug\net6.0\CalculoGeometrico.AssemblyInfoInputs.cache
+C:\Users\Raian Almeida\Desktop\Calculando Areas geometricas\CalculoGeometrico\CalculoGeometrico\obj\Debug\net6.0\CalculoGeometrico.AssemblyInfo.cs
+C:\Users\Raian Almeida\Desktop\Calculando Areas geometricas\CalculoGeometrico\CalculoGeometrico\obj\Debug\net6.0\CalculoGeometrico.csproj.CoreCompileInputs.cache
+C:\Users\Raian Almeida\Desktop\Calculando Areas geometricas\CalculoGeometrico\CalculoGeometrico\obj\Debug\net6.0\CalculoGeometrico.dll
+C:\Users\Raian Almeida\Desktop\Calculando Areas geometricas\CalculoGeometrico\CalculoGeometrico\obj\Debug\net6.0\refint\CalculoGeometrico.dll
+C:\Users\Raian Almeida\Desktop\Calculando Areas geometricas\CalculoGeometrico\CalculoGeometrico\obj\Debug\net6.0\CalculoGeometrico.pdb
+C:\Users\Raian Almeida\Desktop\Calculando Areas geometricas\CalculoGeometrico\CalculoGeometrico\obj\Debug\net6.0\CalculoGeometrico.genruntimeconfig.cache
+C:\Users\Raian Almeida\Desktop\Calculando Areas geometricas\CalculoGeometrico\CalculoGeometrico\obj\Debug\net6.0\ref\CalculoGeometrico.dll
+C:\Users\Raian Almeida\Desktop\Projetos CSharp\CalculoGeometrico\CalculoGeometrico\obj\Debug\net6.0\CalculoGeometrico.csproj.AssemblyReference.cache
+C:\Users\Raian Almeida\Desktop\Projetos CSharp\CalculoGeometrico\CalculoGeometrico\obj\Debug\net6.0\CalculoGeometrico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raian Almeida\Desktop\Projetos CSharp\CalculoGeometrico\CalculoGeometrico\obj\Debug\net6.0\CalculoGeometrico.AssemblyInfoInputs.cache
+C:\Users\Raian Almeida\Desktop\Projetos CSharp\CalculoGeometrico\CalculoGeometrico\obj\Debug\net6.0\CalculoGeometrico.AssemblyInfo.cs
+C:\Users\Raian Almeida\Desktop\Projetos CSharp\CalculoGeometrico\CalculoGeometrico\obj\Debug\net6.0\CalculoGeometrico.csproj.CoreCompileInputs.cache
+C:\Users\Raian Almeida\Desktop\Projetos CSharp\CalculoGeometrico\CalculoGeometrico\obj\Debug\net6.0\CalculoGeometrico.dll
+C:\Users\Raian Almeida\Desktop\Projetos CSharp\CalculoGeometrico\CalculoGeometrico\obj\Debug\net6.0\refint\CalculoGeometrico.dll
+C:\Users\Raian Almeida\Desktop\Projetos CSharp\CalculoGeometrico\CalculoGeometrico\obj\Debug\net6.0\CalculoGeometrico.pdb
+C:\Users\Raian Almeida\Desktop\Projetos CSharp\CalculoGeometrico\CalculoGeometrico\bin\Debug\net6.0\CalculoGeometrico.exe
+C:\Users\Raian Almeida\Desktop\Projetos CSharp\CalculoGeometrico\CalculoGeometrico\bin\Debug\net6.0\CalculoGeometrico.deps.json
+C:\Users\Raian Almeida\Desktop\Projetos CSharp\CalculoGeometrico\CalculoGeometrico\bin\Debug\net6.0\CalculoGeometrico.runtimeconfig.json
+C:\Users\Raian Almeida\Desktop\Projetos CSharp\CalculoGeometrico\CalculoGeometrico\bin\Debug\net6.0\CalculoGeometrico.dll
+C:\Users\Raian Almeida\Desktop\Projetos CSharp\CalculoGeometrico\CalculoGeometrico\bin\Debug\net6.0\CalculoGeometrico.pdb
+C:\Users\Raian Almeida\Desktop\Projetos CSharp\CalculoGeometrico\CalculoGeometrico\obj\Debug\net6.0\CalculoGeometrico.genruntimeconfig.cache
+C:\Users\Raian Almeida\Desktop\Projetos CSharp\CalculoGeometrico\CalculoGeometrico\obj\Debug\net6.0\ref\CalculoGeometrico.dll
